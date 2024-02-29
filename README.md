@@ -1,7 +1,7 @@
 # protectionCookie
 {
   "manifest_version": 2,
-  "name": "Çerez Gizleyici",
+  "name": "Çerez sikici",
   "version": "1.0",
   "description": "Bu eklenti çerezleri otomatik olarak gizler.",
   "permissions": [
